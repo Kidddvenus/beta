@@ -73,22 +73,12 @@ A cross-platform **Flutter** application for managing projects, employees, and t
     - Authentication, Firestore, Hosting
 - **Cloud Functions:**
     - Node.js and Python functions for automation and backend logic
-- **Vertex AI & Genkit:**
-    - AI-powered features and flows (see `functions/src/index.ts`)
-- **DataConnect:**
-    - PostgreSQL integration and schema management
-
 ---
 
 ## 🛠️ Tech Stack
 
 - **Flutter** (Dart)
 - **Firebase** (Auth, Firestore, Hosting, Storage)
-- **Cloud Functions** (Node.js, Python)
-- **Vertex AI** (Google Cloud)
-- **Genkit** (AI Orchestration)
-- **PostgreSQL** (via DataConnect)
-
 ---
 
 ## 📱 Supported Platforms
