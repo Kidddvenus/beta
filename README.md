@@ -70,7 +70,7 @@ A cross-platform **Flutter** application for managing projects, employees, and t
 ## ☁️ Cloud & AI Integrations
 
 - **Firebase:**
-    - Authentication, Firestore, Hosting, Storage
+    - Authentication, Firestore, Hosting
 - **Cloud Functions:**
     - Node.js and Python functions for automation and backend logic
 - **Vertex AI & Genkit:**
