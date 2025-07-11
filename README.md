@@ -141,3 +141,23 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 <p align="center">
   <b>Made with ❤️ for modern project management</b>
 </p>
+
+# Admin Portal Screenshot
+
+Below is a screenshot of the Admin Portal interface, showcasing the main features available to administrators:
+
+![Admin Portal](images/admin_portal_screenshot.jpg)
+
+## Features Displayed
+- Add Project Manager
+- Add Employee
+- Add Project to Manager
+- Add Task to Employee
+- View Projects
+- View Tasks
+- Delete Manager
+- Delete Employee
+- Complain/Compliment
+- Log Out
+
+This interface allows administrators to efficiently manage project managers, employees, projects, and tasks, as well as handle feedback and complaints.
