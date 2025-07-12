@@ -61,10 +61,6 @@ A cross-platform **Flutter** application for managing projects, employees, and t
     - `tables/` – Data tables for viewing projects and tasks
     - `cc/` – Complaints/Compliments modules for employees and managers
     - `deletion/` – Modules for deleting employees and managers
-- `functions/` – Cloud Functions (Node.js & Python) for backend logic, AI, and automation
-- `dataconnect/` – Data connector configuration for PostgreSQL and schema management
-- `generated/` – Auto-generated code and API connectors
-
 ---
 
 ## ☁️ Cloud & AI Integrations
